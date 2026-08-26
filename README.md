@@ -6,6 +6,8 @@
 
 ### ⚙️ Love solving problems and finding new ways to do things 
 
+### 🌱 I’m currently learning many more programming languages
+
 ### 📧 How to reach me ethanboukal11@gmail.com 
 
 <!--
