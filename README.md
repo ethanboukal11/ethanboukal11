@@ -43,6 +43,9 @@
 
 ### <img width="20" height="20" alt="1f397" src="https://github.com/user-attachments/assets/562df6f9-9fea-4fbf-9db4-a5f5c6fcfd46" /> Volunteered with Project Pink'd (Breast Cancer Organization) for 4 years 
 
+---
+
+# Please feel free to connect with me on 
 
 </g>
 </g>
