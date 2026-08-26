@@ -1,6 +1,8 @@
 # Hi there 👋
 
-###  I'm Ethan About me 🏦 I'm currently a student at Wayne State College
+### I'm Ethan ⛳
+
+### 🏦 I'm currently a student at Wayne State College
 
 ### 📚 I am currently studying Computer Programming 💻
 
