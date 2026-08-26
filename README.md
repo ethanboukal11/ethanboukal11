@@ -39,9 +39,9 @@
 
 # Volunteer/ Work Experience 💼
 
-###Worked as a sales associate at Under Armour for 2 years. 👟
+### Worked as a sales associate at Under Armour for 2 years. 👟
 
-###Volunteered with Project Pink'd (Cancer Organization) for 4 years 🎗️
+### Volunteered with Project Pink'd (Cancer Organization) for 4 years 🎗️
 
 
 </g>
