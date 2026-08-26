@@ -1,6 +1,4 @@
-# Hi there 👋
-
-### I'm Ethan ⛳
+# 👋 Hi there, I'm Ethan ⛳
 
 ### 🏦 I'm currently a student at Wayne State College
 
