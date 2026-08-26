@@ -2,9 +2,9 @@
 
 ### I'm Ethan About me 🏦 I'm currently a student at Wayne State College
 
-### 📚 I am currently studying Computer Programming 💻
+###📚 I am currently studying Computer Programming 💻
 
-### ⚙️ Love solving problems and finding new ways to do things 
+###⚙️ Love solving problems and finding new ways to do things 
 
 ### 
 
