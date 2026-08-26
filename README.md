@@ -1,8 +1,12 @@
 # Hi there 👋
 
-### I'm Ethan, currently a student at Wayne State College.
+### I'm Ethan About me 🏦 I'm currently a student at Wayne State College
 
-### I am studying Computer Programming.
+### 📚 I am currently studying Computer Programming 💻
+
+### ⚙️ Love solving problems and finding new ways to do things 
+
+### 
 
 <!--
 **ethanboukal11/ethanboukal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
