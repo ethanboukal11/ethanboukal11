@@ -2,7 +2,7 @@
 
 ### 🏦 I'm currently a student at Wayne State College
 
-### 📚 I am studying to get my master's degree in Computer Programming 💻
+### 📚 I am studying to get my master's degree in computer programming 💻
 
 ### ⚙️ Love solving problems and finding new ways to do things 
 
@@ -11,6 +11,12 @@
 ### 📧 How to reach me ethanboukal11@gmail.com 
 
 ---
+
+# Languages I thrive in
+
+
+
+
 
 <!--
 **ethanboukal11/ethanboukal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
