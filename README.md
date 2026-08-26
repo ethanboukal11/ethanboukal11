@@ -2,7 +2,7 @@
 
 ### 🏦 I'm currently a student at Wayne State College
 
-### 📚 I am studying to get my masters degree Computer Programming 💻
+### 📚 I am studying to get my master's degree in Computer Programming 💻
 
 ### ⚙️ Love solving problems and finding new ways to do things 
 
