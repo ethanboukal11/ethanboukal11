@@ -1,4 +1,4 @@
-## Hi there 👋
+# Heading level 1 Hi there 👋
 
 ## I'm Ethan, currently a student at Wayne State College.
 
