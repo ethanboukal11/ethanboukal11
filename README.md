@@ -12,7 +12,7 @@
 
 ---
 
-# Languages I thrive in
+# 💻 Languages I thrive in
 
 
 
