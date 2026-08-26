@@ -41,7 +41,8 @@
 
 ### 👟 Worked as a sales associate at Under Armour for 2 years. 
 
-### 🎗️ Volunteered with Project Pink'd (Breast Cancer Organization) for 4 years 
+### <img width="240" height="240" alt="1f397" src="https://github.com/user-attachments/assets/562df6f9-9fea-4fbf-9db4-a5f5c6fcfd46" />
+ Volunteered with Project Pink'd (Breast Cancer Organization) for 4 years 
 
 
 </g>
