@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Ethan** ⛳ 
+# 👋 Hi there, I'm Ethan Boukal ⛳ 
 
 ### 🏦 I'm currently a student at Wayne State College
 
