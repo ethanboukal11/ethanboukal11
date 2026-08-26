@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## I'm Ethan, currently a student at Wayne State College.
+
+##I am studying Computer Programming.
+
 <!--
 **ethanboukal11/ethanboukal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
